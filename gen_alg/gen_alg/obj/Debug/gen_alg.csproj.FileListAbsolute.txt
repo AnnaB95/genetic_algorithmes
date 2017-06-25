@@ -1,0 +1,17 @@
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\bin\Debug\gen_alg.exe.config
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\bin\Debug\gen_alg.exe
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\bin\Debug\gen_alg.pdb
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.csprojResolveAssemblyReference.cache
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Form1.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Properties.Resources.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.csproj.GenerateResource.Cache
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.exe
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.pdb
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Employe_add.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Project_add.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Project_change.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.More.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Employee_change.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Add_new_attr.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Add_new_value.resources
+C:\Users\burob\Documents\C# Projects\Projects\gen_alg\gen_alg\obj\Debug\gen_alg.Graphic_name.resources

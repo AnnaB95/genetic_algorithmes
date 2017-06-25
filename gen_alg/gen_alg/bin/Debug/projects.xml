@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projects-attr-list>
+  <required-attr>
+    <name>Название</name>
+  </required-attr>
+  <attr-list>
+    <attr name="Сложность">
+      <value id="1" name="Очень низкая" />
+      <value id="2" name="Низкая" />
+      <value id="3" name="Средняя" />
+      <value id="4" name="Высокая" />
+    </attr>
+    <attr name="Срочность">
+      <value id="1" name="Краткосрочный">
+      </value>
+      <value id="2" name="Среднесрочный">
+      </value>
+      <value id="3" name="Долгосрочный">
+      </value>
+    </attr>
+    <attr name="Эффективность">
+      <value id="1" name="Бюджетная">
+      </value>
+      <value id="2" name="Финансовая">
+      </value>
+      <value id="3" name="Экономическая">
+      </value>
+    </attr>
+    <attr name="Классификация">
+      <value id="1" name="Исследовательский">
+      </value>
+      <value id="2" name="Организационный">
+      </value>
+      <value id="3" name="Научно-технический">
+      </value>
+    </attr>
+    <attr name="Уровень">
+      <value id="1" name="Местный">
+      </value>
+      <value id="2" name="Региональный">
+      </value>
+      <value id="3" name="Федеральный">
+      </value>
+    </attr>
+    <attr name="Целевой результат">
+      <value id="1" name="Подрывной">
+      </value>
+      <value id="2" name="Поддерживающий">
+      </value>
+    </attr>
+    <attr name="Стоимость">
+      <value id="1" name="Низкая" />
+      <value id="2" name="Средняя" />
+      <value id="3" name="Высокая" />
+    </attr>
+  </attr-list>
+</projects-attr-list>

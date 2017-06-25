@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employee-attr-list>
+  <required-attr>
+    <name>ФИО</name>
+    <name>Возраст</name>
+    <name>Опыт работы</name>
+  </required-attr>
+  <attr-list>
+    <attr name="Образование">
+      <value id="1" name="Среднее">
+      </value>
+      <value id="2" name="Среднее-специальное">
+      </value>
+      <value id="3" name="Незаконченное высшее">
+      </value>
+      <value id="4" name="Высшее">
+      </value>
+      <value id="5" name="Учёная степень">
+      </value>
+    </attr>
+    <attr name="Квалификация">
+      <value id="1" name="Низкая">
+      </value>
+      <value id="2" name="Средняя">
+      </value>
+      <value id="3" name="Высокая">
+      </value>
+    </attr>
+    <attr name="Опыт работы">
+      <value id="1" name="Не учитывается">
+      </value>
+      <value id="2" name="НИОКР">
+      </value>
+      <value id="3" name="Инновационный проект">
+      </value>
+    </attr>
+    <attr name="Специальные навыки">
+      <value id="1" name="Не нужны" />
+      <value id="2" name="Не учитываются" />
+      <value id="3" name="Нет" />
+      <value id="4" name="Есть" />
+    </attr>
+    <attr name="Должность">
+      <value id="1" name="Рабочий">
+      </value>
+      <value id="2" name="Специалист">
+      </value>
+      <value id="3" name="Руководитель">
+      </value>
+    </attr>
+  </attr-list>
+</employee-attr-list>

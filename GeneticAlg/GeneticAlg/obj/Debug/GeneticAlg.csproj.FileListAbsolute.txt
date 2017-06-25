@@ -1,0 +1,5 @@
+C:\Users\burob\Documents\C# Projects\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.csprojResolveAssemblyReference.cache
+C:\Users\burob\Documents\C# Projects\Projects\GeneticAlg\GeneticAlg\bin\Debug\GeneticAlg.dll
+C:\Users\burob\Documents\C# Projects\Projects\GeneticAlg\GeneticAlg\bin\Debug\GeneticAlg.pdb
+C:\Users\burob\Documents\C# Projects\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.dll
+C:\Users\burob\Documents\C# Projects\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.pdb
